@@ -6,7 +6,6 @@ namespace VS_app1
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("this is sparta");
             Console.WriteLine("New Line of code is added.");
         }
