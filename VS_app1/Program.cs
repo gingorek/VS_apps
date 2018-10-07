@@ -8,6 +8,7 @@ namespace VS_app1
         {
 
             Console.WriteLine("this is sparta");
+            Console.WriteLine("New Line of code is added.");
         }
     }
 }
