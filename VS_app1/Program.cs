@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace VS_app1
 {
@@ -10,6 +6,8 @@ namespace VS_app1
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("this is sparta");
         }
     }
 }
